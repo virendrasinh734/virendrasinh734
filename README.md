@@ -9,7 +9,7 @@
 <a href="https://hashnode.com/@virendrasinh010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@virendrasinh010" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/virendrasinhkhuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="virendrasinhkhuman" height="30" width="40" /></a>
 <a href="https://x.com/VirendrasinhKh4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.producthunt.com/@virendrasinh_khuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/producthunt.svg" alt="Product Hunt" height="30" width="40" /></a>
+<a href="https://www.producthunt.com/@virendrasinh_khuman" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Product_Hunt/Product_Hunt-Logo.wine.svg" alt="Product Hunt" height="30" width="40" /></a>
 
 </p>
 
